@@ -23,3 +23,7 @@ def tickets(people):
             else:
                 return "NO"
     return "YES"
+
+
+
+
