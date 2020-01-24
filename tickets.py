@@ -22,7 +22,8 @@ def tickets(people):
                 twent -= 3
             else:
                 return "NO"
-    return "YES"
+    return "YES"''
+
 
 
 
